@@ -15,6 +15,8 @@ body {
 header {
     padding: 12px 28px;
 
+    margin-bottom: 36px;
+
     background-color: white;
 }
 
@@ -31,3 +33,45 @@ h1 {
     font-weight: bold;
 }
 /* fine header */
+
+
+/* main */
+main {
+    
+
+    width: 70%;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+    background-color: white;
+}
+
+#buttons {
+    /* border: 1px solid red;
+    test */
+
+    padding: 22px 48px;
+}
+
+button {
+    padding: 8px 16px;
+
+    border-radius: 6px;
+    border: 3px solid #ced3d7;
+
+    background-color: transparent;
+
+    color: #ced3d7;
+    font-weight: bold;
+}
+
+.btn-primary {
+    border-color: #47acf0;
+
+    background-color: #47acf0;
+    color: white;
+}
+
+/* fine main */
