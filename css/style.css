@@ -142,23 +142,25 @@ li {
     color: white;
 
     font-size: 0.6em;
-
 }
 
 .cat-editorial {
     background-color: #45aae9;
 }
-
 .cat-goals {
     background-color: #9b72e3;
 }
-
 .cat-recruiting {
     background-color: #64bfa8;
 }
-
 .cat-mobile {
     background-color: #f19d33;
+}
+.cat-website {
+    background-color: #d763a0;
+}
+.cat-sales {
+    background-color: #afc826;
 }
 /* fine categorie dei task */
 
