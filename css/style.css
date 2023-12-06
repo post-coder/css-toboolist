@@ -53,6 +53,8 @@ main {
     test */
 
     padding: 22px 48px;
+
+    border-bottom: 2px solid #f5f7f8;
 }
 
 button {
@@ -75,3 +77,89 @@ button {
 }
 
 /* fine main */
+
+
+
+/* lista task */
+#tasks-container {
+    padding: 36px 48px;
+}
+
+.task-group {
+    margin-bottom: 36px;
+}
+
+
+h2 {
+    color: #454952;
+    font-size: 26px;
+
+    /* margin-bottom: 26px; */
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 14px;
+
+    font-size: 22px;
+}
+
+.icon {
+    display: inline-block;
+
+    height: 26px;
+    width: 26px;
+
+    border: black 1px solid;
+    border-radius: 50%;
+
+    font-size: 0.7em;
+    text-align: center;
+}
+
+.check {
+    color: #61BEA7;
+    border-color: #61BEA7;
+}
+
+.cross {
+    color: #E7372F;
+    border-color: #E7372F;
+}
+
+
+/* categorie dei task */
+.category {
+    padding: 10px 16px;
+
+    border-radius: 16px;
+    
+    background-color: black;
+    color: white;
+
+    font-size: 0.6em;
+
+}
+
+.cat-editorial {
+    background-color: #45aae9;
+}
+
+.cat-goals {
+    background-color: #9b72e3;
+}
+
+.cat-recruiting {
+    background-color: #64bfa8;
+}
+
+.cat-mobile {
+    background-color: #f19d33;
+}
+/* fine categorie dei task */
+
+/* fine lista task */
