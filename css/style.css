@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+/* reset */
+
+
+body {
+    font-family: sans-serif;
+
+    background-color: #F6F8F9;
+}
+
+/* header */
+header {
+    padding: 12px 28px;
+
+    background-color: white;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+
+    vertical-align: middle;
+
+    font-size: 48px;
+    font-weight: bold;
+}
+/* fine header */
